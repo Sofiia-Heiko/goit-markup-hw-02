@@ -18,6 +18,11 @@
   color: #404bbf;
 }
 
+.logo:hover .logo-accent,
+.logo:focus .logo-accent {
+  color: #4d5ae5;
+}
+
 .logo-accent {
   color: #4d5ae5;
 }
