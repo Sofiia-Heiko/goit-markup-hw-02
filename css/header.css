@@ -23,6 +23,16 @@
   color: #4d5ae5;
 }
 
+.footer-logo:hover,
+.footer-logo:focus {
+  color: #f4f4fd;
+}
+
+.logo:hover .logo-accent,
+.logo:focus .logo-accent {
+  color: #4d5ae5;
+}
+
 .logo-accent {
   color: #4d5ae5;
 }
