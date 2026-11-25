@@ -14,3 +14,10 @@
   letter-spacing: 0.02em;
   text-align: center;
 }
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-item {
+  background-color: #ffffff;
+}
